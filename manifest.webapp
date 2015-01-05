@@ -1,0 +1,13 @@
+{
+  "name": "Light-Theremin",
+  "description": "Firefox OS Theremin example",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "nothing.png"
+  },
+  "developer": {
+    "name": "Richard Armuelles",
+    "url": ""
+  },
+  "default_locale": "en"
+}
